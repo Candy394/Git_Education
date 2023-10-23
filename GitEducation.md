@@ -35,7 +35,7 @@
 
 ![Alt text](image-1.png)
 
-_Более подробную информацию можно увидеть по ссылке [Справочник по Markdown по Microsoft] (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)._
+***For more information, see the*** [markdown-reference](https://docs.microsoft.com/ru-ru/contribute/markdown-reference). 
 
 ## 2 Семинар
 **Команды по Git. Работа с ветками.**
@@ -52,4 +52,6 @@ _Более подробную информацию можно увидеть п
 5. **_git branch -d branch_name_** - команда, позволяющая удалить слитую ветку. 
 5. **_git lod - - graph_** - команда, позволяющая увидеть лог коммитов с визуализацией между ними.
 
-## Семинар 3
+***For more information, see the*** [markdown-reference](https://docs.microsoft.com/ru-ru/contribute/markdown-reference). 
+
+## 3 Семинар
