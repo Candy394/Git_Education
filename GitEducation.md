@@ -33,4 +33,6 @@
 
 **Сиктансис языка Markdown. Краткая помятка основных инструментов выделения**
 
-![Alt text](image.png)
+![Alt text](image-1.png)
+
+_Более подробную информацию можно увидеть по ссылке [Справочник по Markdown по Microsoft] (https://docs.microsoft.com/ru-ru/contribute/markdown-reference)._
